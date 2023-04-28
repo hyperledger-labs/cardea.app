@@ -1,0 +1,14 @@
+#theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+logo: "hyperledger-logo.png"
+url: "https://hyperledger-labs.github.io/cardea.app/"
+footer_content: "<a href=\"https://github.com/hyperledger-labs/cardea.app\">Page generated from Governance repo on GitHub</a>"
+aux_links:
+  "About":
+    - "//www.hyperledger.org/about/leadership#tsc"
+  "GitHub":
+    - "//github.com/hyperledger-labs/cardea.app"
+  "Wiki":
+    - "//wiki.hyperledger.org/display/TSC/Technical+Steering+Committee+Home"
+  "Chat":
+    - "//discord.gg/hyperledger/"
